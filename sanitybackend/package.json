@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "package.json",
-  "author": "JavaScript Mastery <javascriptmastery00@gmail.com>",
+  "author": "",
   "license": "UNLICENSED",
   "scripts": {
     "start": "sanity start",
@@ -30,6 +30,6 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/adrianhajdin/project_tiktik.git"
+    "url": "https://github.com/RadinaAvramova/project_tiktok.git"
   }
 }
